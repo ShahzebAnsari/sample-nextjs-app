@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "name": "Acetic Acid",
+        "category": "Solvents",
+        "description": "High purity acetic acid for industrial applications",
+        "cas": "64-19-7",
+        "industries": ["food", "pharma", "textile"],
+        "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&q=80"
+    },
+    {
+        "id": 2,
+        "name": "Sodium Hydroxide",
+        "category": "Alkalis",
+        "description": "Caustic soda for various industrial processes",
+        "cas": "1310-73-2",
+        "industries": ["detergent", "paper", "textile"],
+        "image": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?w=400&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Titanium Dioxide",
+        "category": "Pigments",
+        "description": "White pigment for paints and coatings",
+        "cas": "13463-67-7",
+        "industries": ["paint", "cosmetics", "plastic"],
+        "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=400&q=80"
+    },
+    {
+        "id": 4,
+        "name": "Glycerin",
+        "category": "Polyols",
+        "description": "Versatile polyol for personal care and food",
+        "cas": "56-81-5",
+        "industries": ["cosmetics", "food", "pharma"],
+        "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400&q=80"
+    },
+    {
+        "id": 5,
+        "name": "Xanthan Gum",
+        "category": "Thickeners",
+        "description": "High-efficiency rheology modifier and stabilizer",
+        "cas": "11138-66-2",
+        "industries": ["drilling", "food", "cosmetics"],
+        "image": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=400&q=80"
+    },
+    {
+        "id": 6,
+        "name": "Bentonite",
+        "category": "Clays",
+        "description": "Absorbent aluminum phyllosilicate clay",
+        "cas": "1302-78-9",
+        "industries": ["drilling", "paint", "cosmetics"],
+        "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&q=80"
+    },
+    {
+        "id": 7,
+        "name": "Polyacrylamide (PAM)",
+        "category": "Flocculants",
+        "description": "High molecular weight polymer for water treatment and drilling",
+        "cas": "9003-05-8",
+        "industries": ["drilling", "paper", "textile"],
+        "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&q=80"
+    },
+    {
+        "id": 8,
+        "name": "Hydrogen Peroxide",
+        "category": "Oxidants",
+        "description": "Versatile bleaching agent and disinfectant",
+        "cas": "7722-84-1",
+        "industries": ["textile", "paper", "pharma"],
+        "image": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=400&q=80"
+    },
+    {
+        "id": 9,
+        "name": "Isopropyl Alcohol",
+        "category": "Solvents",
+        "description": "High-purity disinfectant and industrial solvent",
+        "cas": "67-63-0",
+        "industries": ["pharma", "cosmetics", "paint"],
+        "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=400&q=80"
+    },
+    {
+        "id": 10,
+        "name": "Sodium Sulfate",
+        "category": "Fillers",
+        "description": "Inorganic salt used as a drying agent and detergent filler",
+        "cas": "7757-82-6",
+        "industries": ["detergent", "paper", "textile"],
+        "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&q=80"
+    },
+    {
+        "id": 11,
+        "name": "Acetone",
+        "category": "Solvents",
+        "description": "Highly volatile organic solvent for cleaning and thinning",
+        "cas": "67-64-1",
+        "industries": ["paint", "plastic", "pharma"],
+        "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&q=80"
+    },
+    {
+        "id": 12,
+        "name": "Lactic Acid",
+        "category": "Additives",
+        "description": "Organic acid used for flavoring, preservation, and pH control",
+        "cas": "50-21-5",
+        "industries": ["food", "pharma", "cosmetics"],
+        "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400&q=80"
+    },
+    {
+        "id": 13,
+        "name": "Kaolin",
+        "category": "Fillers",
+        "description": "Fine white clay used for gloss and texture",
+        "cas": "1332-58-7",
+        "industries": ["paper", "paint", "cosmetics"],
+        "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=400&q=80"
+    }
+]
